@@ -1,6 +1,7 @@
-# WhatsApp Clone Chat App
+
 
 A simple chat application built with Node.js, Express, MongoDB, and EJS. Users can create, view, edit, and delete chat messages. The app features a beautiful landing page and a modern UI.
+
 
 ## Features
 - Beautiful landing page with image and navigation
