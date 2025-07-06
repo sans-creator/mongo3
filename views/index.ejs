@@ -22,6 +22,9 @@
 
 
         </div>
+        <p><%= chat.created_at.toString().split(" ")[4]%></p><br>
+        <p><%= chat.created_at.toString().split(" ").slice(0,4).join(" ")%></p>
+
     </div>
 <% } %>
 
